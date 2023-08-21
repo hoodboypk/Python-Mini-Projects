@@ -9,7 +9,7 @@ seconds = time.strftime('%S')
 print(seconds)
 
 
-if(hour >=05 and hour<12):
+if(hour >=5 and hour<12):
     print("Good Morning!")
 elif(hour >= 12 and hour <18):
     print("Good Afternoon!")
